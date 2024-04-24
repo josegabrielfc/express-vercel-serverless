@@ -8,7 +8,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "helmet": "^4.6.0"
+    "helmet": "^4.6.0",
+    "http": "^0.0.1-security"
   },
   "devDependencies": {
     "dotenv": "^10.0.0",
